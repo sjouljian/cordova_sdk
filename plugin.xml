@@ -67,7 +67,7 @@
         <source-file src="src/android/AdjustCordovaUtils.java" target-dir="src/com/adjust/sdk" />
         <lib-file src="src/android/adjust-android.jar" target-dir="libs" />
 
-        <framework src="com.google.android.gms:play-services-analytics:+" />
+        <!--<framework src="com.google.android.gms:play-services-analytics:+" />-->
         <framework src="com.android.installreferrer:installreferrer:2.1" />
     </platform>
 
